@@ -34,7 +34,7 @@
     "orgchart"
   ],
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.19.2",
     "orgchart.js": "0.0.4",
     "vue": "^2.5.13",
     "vue-loader": "^14.1.1",
@@ -62,7 +62,7 @@
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.7",
     "cssnano": "^3.10.0",
-    "docsify-cli": "^4.2.0",
+    "docsify-cli": "^4.4.0",
     "es6-promise": "^4.1.1",
     "eslint": "^4.12.0",
     "eslint-config-standard": "^10.2.1",
@@ -96,6 +96,6 @@
     "rollup-plugin-uglify": "^2.0.1",
     "rollup-plugin-vue": "^2.5.2",
     "webpack": "^3.8.0",
-    "webpack-dev-server": "^2.9.1"
+    "webpack-dev-server": "^2.11.5"
   }
 }
